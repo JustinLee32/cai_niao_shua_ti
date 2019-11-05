@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a95810a4-b2bd-4d38-ae9e-c539962d9d61" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a95810a4-b2bd-4d38-ae9e-c539962d9d61" name="默认更改列表" comment="136 分发糖果">
+      <change afterPath="$PROJECT_DIR$/按题号/1013 将数组分成和相等的三个部分.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/按题号/354 俄罗斯套娃信封问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/解题模板/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/204 计数质数.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/204 计数质数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/264丑数II.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/264丑数II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/300 最长上升子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/300 最长上升子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/357 计算各个位数不同的数字个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/357 计算各个位数不同的数字个数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/374 猜数字方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/374 猜数字方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/375 猜数字大小II.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/375 猜数字大小II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/376 摆动序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/376 摆动序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/378 有序矩阵中第K小的元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/378 有序矩阵中第K小的元素.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/386 字典序排数.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/386 字典序排数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/440 字典序的第K小数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/440 字典序的第K小数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/464 我能赢吗.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/464 我能赢吗.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/按题号/892 三维形体的表面积.py" beforeDir="false" afterPath="$PROJECT_DIR$/按题号/892 三维形体的表面积.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,56 +42,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/按题号/440 字典序的第K小数字.py">
+        <entry file="file://$PROJECT_DIR$/10.20 周赛/5232. 替换子串得到平衡字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="897">
+              <caret line="36" column="2010" selection-start-line="36" selection-start-column="2010" selection-end-line="36" selection-end-column="2010" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.19 双周赛/5111. 分享巧克力.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/解题模板/排序算法/归并排序.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/按题号/136 分发糖果.py">
+        <entry file="file://$PROJECT_DIR$/解题模板/排序算法/快速排序.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2288">
-              <caret line="88" selection-start-line="24" selection-end-line="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/按题号/3 无重复字符的最长子串.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/按题号/892 三维形体的表面积.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1846">
-              <caret line="71" column="18" selection-start-line="53" selection-end-line="71" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/按题号/386 字典序排数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/按题号/42 接雨水.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
+            <state relative-caret-position="-51" />
           </provider>
         </entry>
       </file>
@@ -96,43 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/162 寻找峰值.py" />
-        <option value="$PROJECT_DIR$/139 单词拆分.py" />
-        <option value="$PROJECT_DIR$/279 完全平方数.py" />
-        <option value="$PROJECT_DIR$/238 除自身以外数组的乘积.py" />
-        <option value="$PROJECT_DIR$/258 各位相加.py" />
-        <option value="$PROJECT_DIR$/283 移动零.py" />
-        <option value="$PROJECT_DIR$/生命游戏.py" />
-        <option value="$PROJECT_DIR$/289 生命游戏.py" />
-        <option value="$PROJECT_DIR$/287 寻找重复数.py" />
-        <option value="$PROJECT_DIR$/205.py" />
-        <option value="$PROJECT_DIR$/290 单词表.py" />
-        <option value="$PROJECT_DIR$/292 Nim游戏.py" />
-        <option value="$PROJECT_DIR$/300 最长上升子序列.py" />
-        <option value="$PROJECT_DIR$/306 累加数.py" />
-        <option value="$PROJECT_DIR$/319 灯泡开关.py" />
-        <option value="$PROJECT_DIR$/299猜数字.py" />
-        <option value="$PROJECT_DIR$/120 三角形的路径和.py" />
-        <option value="$PROJECT_DIR$/131 分割回文串.py" />
-        <option value="$PROJECT_DIR$/151 翻转字符串里的单词.py" />
-        <option value="$PROJECT_DIR$/152 乘积最大子序列.py" />
-        <option value="$PROJECT_DIR$/153 寻找旋转排序数组中的最小值.py" />
-        <option value="$PROJECT_DIR$/166 分数到小数.py" />
-        <option value="$PROJECT_DIR$/165 比较版本号.py" />
-        <option value="$PROJECT_DIR$/167 两数之和 II - 输入有序数组.py" />
-        <option value="$PROJECT_DIR$/216 组合总和III.py" />
-        <option value="$PROJECT_DIR$/334 递增的三元子序列.py" />
-        <option value="$PROJECT_DIR$/带递归的缓存.py" />
-        <option value="$PROJECT_DIR$/338 比特记位数.py" />
-        <option value="$PROJECT_DIR$/347 前k高频元素.py" />
-        <option value="$PROJECT_DIR$/357 计算各个位数不同的数字个数.py" />
-        <option value="$PROJECT_DIR$/365 水壶问题.py" />
-        <option value="$PROJECT_DIR$/368 最大整除子集.py" />
-        <option value="$PROJECT_DIR$/372 超级次方.py" />
-        <option value="$PROJECT_DIR$/373 查找和最小的k对数字.py" />
-        <option value="$PROJECT_DIR$/374 猜数字方法.py" />
-        <option value="$PROJECT_DIR$/375 猜数字大小II.py" />
-        <option value="$PROJECT_DIR$/376 摆动序列.py" />
         <option value="$PROJECT_DIR$/377 组合总和IV.py" />
         <option value="$PROJECT_DIR$/394 字符串解码.py" />
         <option value="$PROJECT_DIR$/378 有序矩阵中第K小的元素.py" />
@@ -147,6 +98,43 @@
         <option value="$PROJECT_DIR$/42 接雨水.py" />
         <option value="$PROJECT_DIR$/按题号/42 接雨水.py" />
         <option value="$PROJECT_DIR$/按题号/136 分发糖果.py" />
+        <option value="$PROJECT_DIR$/按题号/354 俄罗斯套娃信封问题.py" />
+        <option value="$PROJECT_DIR$/按题号/1013 将数组分成和相等的三个部分.py" />
+        <option value="$PROJECT_DIR$/按题号/94 二叉树的中序遍历.py" />
+        <option value="$PROJECT_DIR$/按题号/1155 掷骰子的N种方法.py" />
+        <option value="$PROJECT_DIR$/按题号/1144 递减元素使数组成锯齿状.py" />
+        <option value="$PROJECT_DIR$/按题号/1124 表现良好的时间段.py" />
+        <option value="$PROJECT_DIR$/按题号/1109 航班预订统计.py" />
+        <option value="$PROJECT_DIR$/按题号/1094 拼车.py" />
+        <option value="$PROJECT_DIR$/按题号/1079 活字印刷.py" />
+        <option value="$PROJECT_DIR$/1054 距离相等的条形码.py" />
+        <option value="$PROJECT_DIR$/按题号/1054 距离相等的条形码.py" />
+        <option value="$PROJECT_DIR$/按题号/1042 不相邻种花.py" />
+        <option value="$PROJECT_DIR$/10.5 双周赛/5079  三个有序数组的交集.py" />
+        <option value="$PROJECT_DIR$/10.5 双周赛/5080 查找二叉搜索树之和.py" />
+        <option value="$PROJECT_DIR$/10.5 双周赛/5081 步进数.py" />
+        <option value="$PROJECT_DIR$/10.5 双周赛/5099大用例" />
+        <option value="$PROJECT_DIR$/10_7 周赛/5214 最长定差子序列.py" />
+        <option value="$PROJECT_DIR$/10_7 周赛/5215 黄金矿工.py" />
+        <option value="$PROJECT_DIR$/按题号/50 Pow(x, n).py" />
+        <option value="$PROJECT_DIR$/解题模板/快速幂.py" />
+        <option value="$PROJECT_DIR$/10_7 周赛/5216 统计元音字母序列的数目.py" />
+        <option value="$PROJECT_DIR$/解题模板/矩阵快速幂.py" />
+        <option value="$PROJECT_DIR$/10_7 周赛/5213 玩筹码.py" />
+        <option value="$PROJECT_DIR$/按题号/1143 最长公共子序列.py" />
+        <option value="$PROJECT_DIR$/10.5 双周赛/5099 验证回文字符串 III.py" />
+        <option value="$PROJECT_DIR$/输入数组转二叉树.py" />
+        <option value="$PROJECT_DIR$/按题号/1161 最大层内元素和.py" />
+        <option value="$PROJECT_DIR$/按题号/1156 单字符重复子串的最大长度.py" />
+        <option value="$PROJECT_DIR$/按题号/1140 石子游戏 II.py" />
+        <option value="$PROJECT_DIR$/10.19 双周赛/1.py" />
+        <option value="$PROJECT_DIR$/10.19 双周赛/5088. 等差数列中缺失的数字.py" />
+        <option value="$PROJECT_DIR$/10.19 双周赛/5089. 会议日程安排.py" />
+        <option value="$PROJECT_DIR$/10.19 双周赛/5090. 抛硬币.py" />
+        <option value="$PROJECT_DIR$/10.19 双周赛/5111. 分享巧克力.py" />
+        <option value="$PROJECT_DIR$/10.20 周赛/5230. 缀点成线.py" />
+        <option value="$PROJECT_DIR$/10.20 周赛/5231. 删除子文件夹.py" />
+        <option value="$PROJECT_DIR$/10.20 周赛/5232. 替换子串得到平衡字符串.py" />
       </list>
     </option>
   </component>
@@ -156,7 +144,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="46" />
     <option name="y" value="23" />
     <option name="width" value="1634" />
@@ -179,7 +167,18 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="按题号" type="462c0819:PsiDirectoryNode" />
+              <item name="10_7 周赛" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="解题模板" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="解题模板" type="462c0819:PsiDirectoryNode" />
+              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -194,7 +193,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/按热度" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -203,7 +202,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -214,11 +213,11 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/按题号" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/按热度" />
+      <recent name="$PROJECT_DIR$/按题号" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/按题号" />
     </key>
   </component>
@@ -234,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.440 字典序的第K小数字">
-    <configuration name="378 有序矩阵中第K小的元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5232. 替换子串得到平衡字符串">
+    <configuration name="5089. 会议日程安排" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,12 +242,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.19 双周赛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/378 有序矩阵中第K小的元素.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.19 双周赛/5089. 会议日程安排.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="386 字典序排数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5090. 抛硬币" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,12 +264,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/按题号" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.19 双周赛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/按题号/386 字典序排数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.19 双周赛/5090. 抛硬币.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="395 至少有K个重复字符的最长子串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5230. 缀点成线" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,12 +286,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.20 周赛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/395 至少有K个重复字符的最长子串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.20 周赛/5230. 缀点成线.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="440 字典序的第K小数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5231. 删除子文件夹" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,12 +308,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/按题号" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.20 周赛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/按题号/440 字典序的第K小数字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.20 周赛/5231. 删除子文件夹.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5 最长回文串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5232. 替换子串得到平衡字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,12 +330,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.20 周赛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 最长回文串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.20 周赛/5232. 替换子串得到平衡字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.440 字典序的第K小数字" />
-        <item itemvalue="Python.386 字典序排数" />
-        <item itemvalue="Python.5 最长回文串" />
-        <item itemvalue="Python.395 至少有K个重复字符的最长子串" />
-        <item itemvalue="Python.378 有序矩阵中第K小的元素" />
+        <item itemvalue="Python.5232. 替换子串得到平衡字符串" />
+        <item itemvalue="Python.5231. 删除子文件夹" />
+        <item itemvalue="Python.5230. 缀点成线" />
+        <item itemvalue="Python.5090. 抛硬币" />
+        <item itemvalue="Python.5089. 会议日程安排" />
       </list>
     </recent_temporary>
   </component>
@@ -378,22 +377,70 @@
       <workItem from="1566976044581" duration="8875000" />
       <workItem from="1567041855809" duration="8208000" />
       <workItem from="1567529874476" duration="519000" />
-      <workItem from="1568382507210" duration="1003000" />
+      <workItem from="1568382507210" duration="4232000" />
+      <workItem from="1568640234107" duration="503000" />
+      <workItem from="1568722022725" duration="1205000" />
+      <workItem from="1569511205840" duration="1626000" />
+      <workItem from="1569685065958" duration="3617000" />
+      <workItem from="1569750389276" duration="922000" />
+      <workItem from="1569770848296" duration="5027000" />
+      <workItem from="1570265286537" duration="7075000" />
+      <workItem from="1570329408340" duration="14307000" />
+      <workItem from="1570374415410" duration="3786000" />
+      <workItem from="1570636001327" duration="5575000" />
+      <workItem from="1571495572317" duration="4115000" />
+      <workItem from="1571538937008" duration="5492000" />
+      <workItem from="1571572673361" duration="834000" />
     </task>
+    <task id="LOCAL-00001" summary="136 分发糖果">
+      <created>1568383596308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568383596309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97287000" />
+    <option name="totallyTimeSpent" value="154600000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1634" height="1027" extended-state="6" />
+    <frame x="46" y="23" width="1634" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19158292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22424623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.2855615" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32977387" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20917085" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -414,123 +461,93 @@
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32977387" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="136 分发糖果" />
+    <option name="LAST_COMMIT_MESSAGE" value="136 分发糖果" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$167__II___.coverage" NAME="167 两数之和 II - 输入有序数组 Coverage Results" MODIFIED="1566375018226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$395_K.coverage" NAME="395 至少有K个重复字符的最长子串 Coverage Results" MODIFIED="1567010053081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5216_.coverage" NAME="5216 统计元音字母序列的数目 Coverage Results" MODIFIED="1570359045323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_7 周赛" />
+    <SUITE FILE_PATH="coverage/leetcode$5230__.coverage" NAME="5230. 缀点成线 Coverage Results" MODIFIED="1571539565403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.20 周赛" />
     <SUITE FILE_PATH="coverage/leetcode$375_II.coverage" NAME="375 猜数字大小II Coverage Results" MODIFIED="1566543923171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$394_.coverage" NAME="394 字符串解码 Coverage Results" MODIFIED="1566977851839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$162_.coverage" NAME="162 寻找峰值 Coverage Results" MODIFIED="1565961785016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5090__.coverage" NAME="5090. 抛硬币 Coverage Results" MODIFIED="1571499602307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.19 双周赛" />
     <SUITE FILE_PATH="coverage/leetcode$386_.coverage" NAME="386 字典序排数 Coverage Results" MODIFIED="1567065274157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
-    <SUITE FILE_PATH="coverage/leetcode$187DNA.coverage" NAME="187重复的DNA序列 Coverage Results" MODIFIED="1565947883394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1054_.coverage" NAME="1054 距离相等的条形码 Coverage Results" MODIFIED="1569775928879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
     <SUITE FILE_PATH="coverage/leetcode$300_.coverage" NAME="300 最长上升子序列 Coverage Results" MODIFIED="1566293295239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$347_k.coverage" NAME="347 前k高频元素 Coverage Results" MODIFIED="1566442581771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5089__.coverage" NAME="5089. 会议日程安排 Coverage Results" MODIFIED="1571497330674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.19 双周赛" />
     <SUITE FILE_PATH="coverage/leetcode$279_.coverage" NAME="279 完全平方数 Coverage Results" MODIFIED="1566274440325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5079__.coverage" NAME="5079  三个有序数组的交集 Coverage Results" MODIFIED="1570286157423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.5 双周赛" />
+    <SUITE FILE_PATH="coverage/leetcode$5081_.coverage" NAME="5081 步进数 Coverage Results" MODIFIED="1570290166444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.5 双周赛" />
+    <SUITE FILE_PATH="coverage/leetcode$1161_.coverage" NAME="1161 最大层内元素和 Coverage Results" MODIFIED="1570637202783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$283_.coverage" NAME="283 移动零 Coverage Results" MODIFIED="1566287030714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$.coverage" NAME="矩阵快速幂 Coverage Results" MODIFIED="1570357754996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/解题模板" />
+    <SUITE FILE_PATH="coverage/leetcode$292_Nim.coverage" NAME="292 Nim游戏 Coverage Results" MODIFIED="1566289893627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$373_k.coverage" NAME="373 查找和最小的k对数字 Coverage Results" MODIFIED="1566524339690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5215_.coverage" NAME="5215 黄金矿工 Coverage Results" MODIFIED="1570347663025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_7 周赛" />
+    <SUITE FILE_PATH="coverage/leetcode$374_.coverage" NAME="374 猜数字方法 Coverage Results" MODIFIED="1566529342367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1079_.coverage" NAME="1079 活字印刷 Coverage Results" MODIFIED="1569775543783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$204_.coverage" NAME="204 计数质数 Coverage Results" MODIFIED="1563628894728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5099__III.coverage" NAME="5099 验证回文字符串 III Coverage Results" MODIFIED="1570379045356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.5 双周赛" />
+    <SUITE FILE_PATH="coverage/leetcode$368_.coverage" NAME="368 最大整除子集 Coverage Results" MODIFIED="1566459782341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$440_K.coverage" NAME="440 字典序的第K小数字 Coverage Results" MODIFIED="1567065843421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$152_.coverage" NAME="152 乘积最大子序列 Coverage Results" MODIFIED="1566359412669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1124_.coverage" NAME="1124 表现良好的时间段 Coverage Results" MODIFIED="1569750440580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$1094_.coverage" NAME="1094 拼车 Coverage Results" MODIFIED="1569771968868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$94_.coverage" NAME="94 二叉树的中序遍历 Coverage Results" MODIFIED="1569511559349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$290_.coverage" NAME="290 单词表 Coverage Results" MODIFIED="1566289063826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$365_.coverage" NAME="365 水壶问题 Coverage Results" MODIFIED="1566447469778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$216_III.coverage" NAME="216 组合总和III Coverage Results" MODIFIED="1566377265260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1143_.coverage" NAME="1143 最长公共子序列 Coverage Results" MODIFIED="1570378903105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$165_.coverage" NAME="165 比较版本号 Coverage Results" MODIFIED="1566374976786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$120_.coverage" NAME="120 三角形的路径和 Coverage Results" MODIFIED="1566307723184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1156_.coverage" NAME="1156 单字符重复子串的最大长度 Coverage Results" MODIFIED="1570639953335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$5214_.coverage" NAME="5214 最长定差子序列 Coverage Results" MODIFIED="1570332067151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_7 周赛" />
+    <SUITE FILE_PATH="coverage/leetcode$167__II___.coverage" NAME="167 两数之和 II - 输入有序数组 Coverage Results" MODIFIED="1566375018226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$395_K.coverage" NAME="395 至少有K个重复字符的最长子串 Coverage Results" MODIFIED="1567010053081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$162_.coverage" NAME="162 寻找峰值 Coverage Results" MODIFIED="1565961785016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$187DNA.coverage" NAME="187重复的DNA序列 Coverage Results" MODIFIED="1565947883394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$347_k.coverage" NAME="347 前k高频元素 Coverage Results" MODIFIED="1566442581771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$166_.coverage" NAME="166 分数到小数 Coverage Results" MODIFIED="1566372925701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$881_.coverage" NAME="881.救生艇 Coverage Results" MODIFIED="1565945501421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$283_.coverage" NAME="283 移动零 Coverage Results" MODIFIED="1566287030714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$151_.coverage" NAME="151 翻转字符串里的单词 Coverage Results" MODIFIED="1566356719685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$139_.coverage" NAME="139 单词拆分 Coverage Results" MODIFIED="1566273852961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$258_.coverage" NAME="258 各位相加 Coverage Results" MODIFIED="1566286989416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$378_K.coverage" NAME="378 有序矩阵中第K小的元素 Coverage Results" MODIFIED="1566983297924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$292_Nim.coverage" NAME="292 Nim游戏 Coverage Results" MODIFIED="1566289893627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$373_k.coverage" NAME="373 查找和最小的k对数字 Coverage Results" MODIFIED="1566524339690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$374_.coverage" NAME="374 猜数字方法 Coverage Results" MODIFIED="1566529342367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1144_.coverage" NAME="1144 递减元素使数组成锯齿状 Coverage Results" MODIFIED="1569687301108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$1155_N.coverage" NAME="1155 掷骰子的N种方法 Coverage Results" MODIFIED="1569686407092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
     <SUITE FILE_PATH="coverage/leetcode$319_.coverage" NAME="319 灯泡开关 Coverage Results" MODIFIED="1566307132748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$204_.coverage" NAME="204 计数质数 Coverage Results" MODIFIED="1563628894728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$338_.coverage" NAME="338 比特记位数 Coverage Results" MODIFIED="1566381594508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5088__.coverage" NAME="5088. 等差数列中缺失的数字 Coverage Results" MODIFIED="1571495946460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.19 双周赛" />
     <SUITE FILE_PATH="coverage/leetcode$372_.coverage" NAME="372 超级次方 Coverage Results" MODIFIED="1566459839272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$368_.coverage" NAME="368 最大整除子集 Coverage Results" MODIFIED="1566459782341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1013_.coverage" NAME="1013 将数组分成和相等的三个部分 Coverage Results" MODIFIED="1568391671111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
+    <SUITE FILE_PATH="coverage/leetcode$5232__.coverage" NAME="5232. 替换子串得到平衡字符串 Coverage Results" MODIFIED="1571545558456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.20 周赛" />
     <SUITE FILE_PATH="coverage/leetcode$131_.coverage" NAME="131 分割回文串 Coverage Results" MODIFIED="1566356309506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$50_Pow_x__n_.coverage" NAME="50 Pow(x, n) Coverage Results" MODIFIED="1570354952129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
     <SUITE FILE_PATH="coverage/leetcode$210_II.coverage" NAME="210 课程表II Coverage Results" MODIFIED="1565949247862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$440_K.coverage" NAME="440 字典序的第K小数字 Coverage Results" MODIFIED="1567065843421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
-    <SUITE FILE_PATH="coverage/leetcode$152_.coverage" NAME="152 乘积最大子序列 Coverage Results" MODIFIED="1566359412669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$290_.coverage" NAME="290 单词表 Coverage Results" MODIFIED="1566289063826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$365_.coverage" NAME="365 水壶问题 Coverage Results" MODIFIED="1566447469778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$216_III.coverage" NAME="216 组合总和III Coverage Results" MODIFIED="1566377265260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5231__.coverage" NAME="5231. 删除子文件夹 Coverage Results" MODIFIED="1571542348593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.20 周赛" />
     <SUITE FILE_PATH="coverage/leetcode$376_.coverage" NAME="376 摆动序列 Coverage Results" MODIFIED="1566893960160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5213_.coverage" NAME="5213 玩筹码 Coverage Results" MODIFIED="1570360067281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_7 周赛" />
     <SUITE FILE_PATH="coverage/leetcode$357_.coverage" NAME="357 计算各个位数不同的数字个数 Coverage Results" MODIFIED="1566443810978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1140__II.coverage" NAME="1140 石子游戏 II Coverage Results" MODIFIED="1570641450518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按题号" />
     <SUITE FILE_PATH="coverage/leetcode$238_.coverage" NAME="238 除自身以外数组的乘积 Coverage Results" MODIFIED="1566283784201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$134.coverage" NAME="134加油站 Coverage Results" MODIFIED="1565946989543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$165_.coverage" NAME="165 比较版本号 Coverage Results" MODIFIED="1566374976786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$120_.coverage" NAME="120 三角形的路径和 Coverage Results" MODIFIED="1566307723184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/287 寻找重复数.py" />
-    <entry file="file://$PROJECT_DIR$/332.py" />
-    <entry file="file://$PROJECT_DIR$/263丑数.py" />
-    <entry file="file://$PROJECT_DIR$/258 各位相加.py" />
-    <entry file="file://$PROJECT_DIR$/238 除自身以外数组的乘积.py" />
-    <entry file="file://$PROJECT_DIR$/205.py" />
-    <entry file="file://$PROJECT_DIR$/290 单词表.py" />
-    <entry file="file://$PROJECT_DIR$/292 Nim游戏.py" />
-    <entry file="file://$PROJECT_DIR$/306 累加数.py" />
-    <entry file="file://$PROJECT_DIR$/299猜数字.py" />
-    <entry file="file://$PROJECT_DIR$/101 对称二叉树.py" />
-    <entry file="file://$PROJECT_DIR$/319 灯泡开关.py" />
-    <entry file="file://$PROJECT_DIR$/120 三角形的路径和.py" />
-    <entry file="file://$PROJECT_DIR$/131 分割回文串.py" />
-    <entry file="file://$PROJECT_DIR$/151 翻转字符串里的单词.py" />
-    <entry file="file://$PROJECT_DIR$/152 乘积最大子序列.py" />
-    <entry file="file://$PROJECT_DIR$/153 寻找旋转排序数组中的最小值.py" />
-    <entry file="file://$PROJECT_DIR$/166 分数到小数.py" />
-    <entry file="file://$PROJECT_DIR$/165 比较版本号.py" />
-    <entry file="file://$PROJECT_DIR$/167 两数之和 II - 输入有序数组.py" />
-    <entry file="file://$PROJECT_DIR$/216 组合总和III.py" />
-    <entry file="file://$PROJECT_DIR$/300 最长上升子序列.py" />
-    <entry file="file://$PROJECT_DIR$/334 递增的三元子序列.py" />
-    <entry file="file://$PROJECT_DIR$/338 比特记位数.py" />
-    <entry file="file://$PROJECT_DIR$/347 前k高频元素.py" />
-    <entry file="file://$PROJECT_DIR$/357 计算各个位数不同的数字个数.py" />
-    <entry file="file://$PROJECT_DIR$/365 水壶问题.py" />
-    <entry file="file://$PROJECT_DIR$/带递归的缓存.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/372 超级次方.py" />
-    <entry file="file://$PROJECT_DIR$/373 查找和最小的k对数字.py" />
-    <entry file="file://$PROJECT_DIR$/368 最大整除子集.py" />
-    <entry file="file://$PROJECT_DIR$/374 猜数字方法.py" />
-    <entry file="file://$PROJECT_DIR$/375 猜数字大小II.py" />
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/376 摆动序列.py" />
-    <entry file="file://$PROJECT_DIR$/377 组合总和IV.py" />
-    <entry file="file://$PROJECT_DIR$/207课程表.py" />
-    <entry file="file://$PROJECT_DIR$/394 字符串解码.py" />
-    <entry file="file://$PROJECT_DIR$/378 有序矩阵中第K小的元素.py" />
-    <entry file="file://$PROJECT_DIR$/395 至少有K个重复字符的最长子串.py" />
-    <entry file="file://$PROJECT_DIR$/5 最长回文串.py" />
-    <entry file="file://$PROJECT_DIR$/按热度/5 最长回文串.py" />
-    <entry file="file://$PROJECT_DIR$/按题号/5 最长回文串.py">
+    <entry file="file://$PROJECT_DIR$/按题号/3 无重复字符的最长子串.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="14" selection-start-line="14" selection-end-line="47" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/按题号/92 反转链表 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/按题号/892 三维形体的表面积.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1846">
+        <state relative-caret-position="833">
           <caret line="71" column="18" selection-start-line="53" selection-end-line="71" selection-end-column="18" />
         </state>
       </provider>
@@ -549,32 +566,296 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../58/2.py">
+    <entry file="file://$PROJECT_DIR$/按题号/198.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/179.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/213.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/221最大正方形.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" lean-forward="true" selection-end-line="37" />
+        <state relative-caret-position="806">
+          <caret line="31" selection-start-line="15" selection-start-column="4" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/按题号/440 字典序的第K小数字.py">
+    <entry file="file://$PROJECT_DIR$/按题号/354 俄罗斯套娃信封问题.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="499">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/按题号/3 无重复字符的最长子串.py">
+    <entry file="file://$PROJECT_DIR$/按题号/94 二叉树的中序遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1155 掷骰子的N种方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" selection-start-line="21" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1144 递减元素使数组成锯齿状.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="50" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1124 表现良好的时间段.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1109 航班预订统计.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/292 Nim游戏.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1094 拼车.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1079 活字印刷.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1042 不相邻种花.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/216 组合总和III.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1054 距离相等的条形码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_vars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.5 双周赛/5079  三个有序数组的交集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.5 双周赛/5080 查找二叉搜索树之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.5 双周赛/5081 步进数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="76" selection-start-line="29" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.5 双周赛/5099大用例">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="345" selection-start-line="7" selection-end-line="7" selection-end-column="345" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_7 周赛/5214 最长定差子序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_7 周赛/5215 黄金矿工.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2103">
+          <caret line="100" column="24" lean-forward="true" selection-start-line="54" selection-end-line="100" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/50 Pow(x, n).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <caret line="14" column="31" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/按题号/136 分发糖果.py">
+    <entry file="file://$PROJECT_DIR$/关于类的测试.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解题模板/快速幂.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2288">
-          <caret line="88" selection-start-line="24" selection-end-line="88" />
+        <state relative-caret-position="598">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解题模板/矩阵快速幂.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_7 周赛/5216 统计元音字母序列的数目.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2990">
+          <caret line="115" selection-start-line="97" selection-start-column="1" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_7 周赛/5213 玩筹码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="68" selection-start-line="68" selection-end-line="79" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1143 最长公共子序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" selection-start-line="13" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.5 双周赛/5099 验证回文字符串 III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/输入数组转二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1161 最大层内元素和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="8" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1156 单字符重复子串的最大长度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="625" selection-start-line="625" selection-end-line="625" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/1140 石子游戏 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.19 双周赛/5088. 等差数列中缺失的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.19 双周赛/5089. 会议日程安排.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.19 双周赛/5090. 抛硬币.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.20 周赛/5230. 缀点成线.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.20 周赛/5231. 删除子文件夹.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.20 周赛/5232. 替换子串得到平衡字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="36" column="2010" selection-start-line="36" selection-start-column="2010" selection-end-line="36" selection-end-column="2010" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/按题号/332.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.19 双周赛/5111. 分享巧克力.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解题模板/排序算法/归并排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解题模板/排序算法/快速排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
       </provider>
     </entry>
   </component>
